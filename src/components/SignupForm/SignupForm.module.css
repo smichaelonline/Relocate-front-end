@@ -11,6 +11,17 @@
   margin-right: .5rem;
 }
 
+.photoContainer {
+  padding-left: 3.75rem;
+  padding-bottom: 2rem; 
+}
+
 .inputContainer {
   margin-bottom: 1rem;
+}
+
+.buttonContainer {
+  display:flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
 }
